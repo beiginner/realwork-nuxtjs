@@ -1,0 +1,43 @@
+[
+  {
+    "path": "/",
+    "component": "D:\\\\lagou\\\\realwork-nuxtjs\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "D:\\\\lagou\\\\realwork-nuxtjs\\\\pages\\\\home"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "D:\\\\lagou\\\\realwork-nuxtjs\\\\pages\\\\login"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "D:\\\\lagou\\\\realwork-nuxtjs\\\\pages\\\\login"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "D:\\\\lagou\\\\realwork-nuxtjs\\\\pages\\\\profile"
+      },
+      {
+        "path": "/setting",
+        "name": "setting",
+        "component": "D:\\\\lagou\\\\realwork-nuxtjs\\\\pages\\\\setting"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "D:\\\\lagou\\\\realwork-nuxtjs\\\\pages\\\\editor"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "D:\\\\lagou\\\\realwork-nuxtjs\\\\pages\\\\article"
+      }
+    ]
+  }
+]
