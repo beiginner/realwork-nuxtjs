@@ -6,46 +6,38 @@
       {
         "path": "",
         "name": "home",
-        "component": "D:\\\\lagou\\\\realwork-nuxtjs\\\\pages\\\\home",
-        "_name": "_4b2ee3f6"
+        "component": "D:\\\\lagou\\\\realwork-nuxtjs\\\\pages\\\\home"
       },
       {
         "path": "/login",
         "name": "login",
-        "component": "D:\\\\lagou\\\\realwork-nuxtjs\\\\pages\\\\login",
-        "_name": "_72e17b03"
+        "component": "D:\\\\lagou\\\\realwork-nuxtjs\\\\pages\\\\login"
       },
       {
         "path": "/register",
         "name": "register",
-        "component": "D:\\\\lagou\\\\realwork-nuxtjs\\\\pages\\\\login",
-        "_name": "_72e17b03"
+        "component": "D:\\\\lagou\\\\realwork-nuxtjs\\\\pages\\\\login"
       },
       {
         "path": "/profile/:username",
         "name": "profile",
-        "component": "D:\\\\lagou\\\\realwork-nuxtjs\\\\pages\\\\profile",
-        "_name": "_199596c3"
+        "component": "D:\\\\lagou\\\\realwork-nuxtjs\\\\pages\\\\profile"
       },
       {
         "path": "/setting",
         "name": "setting",
-        "component": "D:\\\\lagou\\\\realwork-nuxtjs\\\\pages\\\\setting",
-        "_name": "_bb33c92c"
+        "component": "D:\\\\lagou\\\\realwork-nuxtjs\\\\pages\\\\setting"
       },
       {
         "path": "/editor",
         "name": "editor",
-        "component": "D:\\\\lagou\\\\realwork-nuxtjs\\\\pages\\\\editor",
-        "_name": "_467bedda"
+        "component": "D:\\\\lagou\\\\realwork-nuxtjs\\\\pages\\\\editor"
       },
       {
         "path": "/article/:slug",
         "name": "article",
-        "component": "D:\\\\lagou\\\\realwork-nuxtjs\\\\pages\\\\article",
-        "_name": "_005fda10"
+        "component": "D:\\\\lagou\\\\realwork-nuxtjs\\\\pages\\\\article"
       }
-    ],
-    "_name": "_2ede3a60"
+    ]
   }
 ]
